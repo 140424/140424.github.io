@@ -1742,18 +1742,9 @@ pre .javascript .function {
   max-width: 120px;
   height: auto;
   border: 1px solid #eee;
-}
-.site-author-name {
-  margin: 0;
-  text-align: center;
-  color: #222;
-  font-weight: 600;
-}
-.site-description {
-  margin-top: 0;
-  text-align: center;
-  font-size: 13px;
-  color: #999;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
 }
 .site-state {
   overflow: hidden;
@@ -1823,7 +1814,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #49ffba;
+  background: #ff33b5;
 }
 .links-of-blogroll {
   font-size: 13px;
