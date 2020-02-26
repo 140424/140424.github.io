@@ -1824,7 +1824,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff9596;
+  background: #f0dd1a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2993,7 +2993,7 @@ pre .javascript .function {
   }
 }
 body {
-  background: url("/images/yourbackground.jpg");
+  background: url("/images/beijing.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
