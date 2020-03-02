@@ -7,17 +7,29 @@
 <h1 id="科学上网"><a href="#科学上网" class="headerlink" title="科学上网"></a><center>科学上网</center></h1><table>
 <thead>
 <tr>
-<th>表头1</th>
-<th>表头2</th>
+<th>科学上网</th>
+<th>下载地址</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>单元格1</td>
-<td>单元格2</td>
+<td>windows</td>
+<td><a href="https://github.com/shadowsocks/shadowsocks-windows/releases?after=2.5.1" target="_blank" rel="noopener">https://github.com/shadowsocks/shadowsocks-windows/releases?after=2.5.1</a></td>
 </tr>
 <tr>
-<td>单元格3</td>
-<td>单元格4</td>
+<td>android</td>
+<td><a href="https://github.com/shadowsocks/shadowsocks-android/releases" target="_blank" rel="noopener">https://github.com/shadowsocks/shadowsocks-android/releases</a></td>
+</tr>
+<tr>
+<td>mac</td>
+<td><a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases" target="_blank" rel="noopener">https://github.com/shadowsocks/ShadowsocksX-NG/releases</a></td>
+</tr>
+<tr>
+<td>linux</td>
+<td><a href="https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation" target="_blank" rel="noopener">https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation</a></td>
+</tr>
+<tr>
+<td>备用</td>
+<td>123</td>
 </tr>
 </tbody></table>
 ]]></content>
