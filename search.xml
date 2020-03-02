@@ -40,9 +40,10 @@
   <entry>
     <title>hello</title>
     <url>/2020/02/24/a/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>46665</tag>
-      </tags>
+    <content><![CDATA[<p>13</p>
+]]></content>
+      <categories>
+        <category>科学上网</category>
+      </categories>
   </entry>
 </search>
