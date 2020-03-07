@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>随记</title>
-    <url>/2020/02/26/%E9%9A%8F%E8%AE%B0/</url>
+    <title>1</title>
+    <url>/2020/03/07/%E5%BD%B1%E8%A7%86%E8%A7%82%E7%9C%8B/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>影视观看</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>科学上网</title>
+    <url>/2020/02/26/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</url>
     <content><![CDATA[<hr>
 <h1 id="科学上网"><a href="#科学上网" class="headerlink" title="科学上网"></a><center>科学上网</center></h1><table>
 <thead>
@@ -346,5 +354,8 @@ SSR   链接 : ssr://MTQ5LjI4LjIwMS4xOTo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY3R
 </tr>
 </tbody></table>
 ]]></content>
+      <categories>
+        <category>科学上网</category>
+      </categories>
   </entry>
 </search>
