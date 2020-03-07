@@ -9,8 +9,6 @@
     <title>影视观看</title>
     <url>/2020/03/07/%E5%BD%B1%E8%A7%86%E8%A7%82%E7%9C%8B/</url>
     <content><![CDATA[<hr>
-<p>title:<br>categories: 影视观看<br>date: 2020-03-07 12:44:50<br>photos: <a href="https://pic.downk.cc/item/5e6329e698271cb2b8ad4386.jpg" target="_blank" rel="noopener">https://pic.downk.cc/item/5e6329e698271cb2b8ad4386.jpg</a><br>tags:</p>
-<hr>
 <h1 id="电影"><a href="#电影" class="headerlink" title="电影"></a><center>电影</center></h1><table>
 <thead>
 <tr>
@@ -269,6 +267,9 @@
 </tr>
 </tbody></table>
 ]]></content>
+      <categories>
+        <category>影视观看</category>
+      </categories>
   </entry>
   <entry>
     <title>科学上网</title>
