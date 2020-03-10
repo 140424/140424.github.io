@@ -206,6 +206,36 @@
           </a>
         </li>
       
+        
+        <li class="menu-item menu-item-books">
+          <a href="/books/%20" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-book"></i> <br />
+            
+            读书
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-movies">
+          <a href="/movies/%20" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-video-camera"></i> <br />
+            
+            电影
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-games">
+          <a href="/games/%20" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-gamepad"></i> <br />
+            
+            游戏
+          </a>
+        </li>
+      
 
       
         <li class="menu-item menu-item-search">
@@ -351,6 +381,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2020/03/07/%E8%BD%AF%E4%BB%B6/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2020/03/07/%E8%BD%AF%E4%BB%B6/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -378,7 +418,7 @@
           
             <div class="post-gallery-row">
               <a class="post-gallery-img fancybox"
-                 href="https://pic.downk.cc/item/5e633bec98271cb2b8ba5245.jpg" rel="gallery_ck7kkyd4c0006kowzbgr2dbe2"
+                 href="https://pic.downk.cc/item/5e633bec98271cb2b8ba5245.jpg" rel="gallery_ck7lvze7u0006bwwz71vkd96m"
                  itemscope itemtype="http://schema.org/ImageObject" itemprop="url">
                 <img src="https://pic.downk.cc/item/5e633bec98271cb2b8ba5245.jpg" itemprop="contentUrl"/>
               </a>
@@ -561,6 +601,9 @@
 
           
 
+  
+    <div class="comments" id="comments">
+    </div>
   
 
 
@@ -855,6 +898,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'nQrRDMaVRqUsqVK1GqTDMan5-gzGzoHsz',
+        appKey: 'LMaIG6QyuPBW0tgnRF2WCsS1',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
